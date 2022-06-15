@@ -93,3 +93,62 @@
   
 </body>
 </html>
+
+body{
+    background-color: rgb(211, 112, 181);
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 40px;
+    font-family: Arial;
+    
+   
+}
+.imagem{
+  margin-left: 500px;
+}
+
+img{
+  left: 40px; 
+  
+}
+
+
+ h3{
+   text-align: center;
+   padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ h2{
+  text-align: center;
+  position: relative;
+    padding-top: 60px;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    padding-left: 56px;
+    
+    
+   }
+   h4{
+    text-align: center;
+   }
+   
+
+   p{
+
+    padding-top: 2px;
+     padding-bottom: 2px;
+     font-size: 20px;
+     font-family: arial;     
+   }
+
+
+   .paragrafo1 h1{
+     font-family: 'Courier New', Courier, monospace;
+   }
+
